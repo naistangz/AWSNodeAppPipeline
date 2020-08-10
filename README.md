@@ -8,3 +8,4 @@
 5. Must only listen to dev branch 
 6. Must merge code 
 7. Testing Jenkins! Triggering build if successful 
+8. :taco: test # 1
