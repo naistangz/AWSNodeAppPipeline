@@ -7,4 +7,4 @@
 4. Must buid in agent node 
 5. Must only listen to dev branch 
 6. Must merge code 
-7. Testing Jenkins! 
+7. Testing Jenkins! Triggering build if successful 
